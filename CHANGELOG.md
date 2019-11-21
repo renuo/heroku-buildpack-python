@@ -7,6 +7,7 @@
   - Update Python formulas 3.6.x, 3.7.x, 3.5.x, and 2.7.17-2.7.9
 - Test staged binaries on Travis
 - Update Setuptools to 41.6.0
+- Update Pip to 19.3.1
 
 --------------------------------------------------------------------------------
 
